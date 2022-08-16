@@ -1,0 +1,15 @@
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\bin\Debug\net6.0\CountSort.exe
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\bin\Debug\net6.0\CountSort.deps.json
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\bin\Debug\net6.0\CountSort.runtimeconfig.json
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\bin\Debug\net6.0\CountSort.dll
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\bin\Debug\net6.0\CountSort.pdb
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\CountSort.csproj.AssemblyReference.cache
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\CountSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\CountSort.AssemblyInfoInputs.cache
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\CountSort.AssemblyInfo.cs
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\CountSort.csproj.CoreCompileInputs.cache
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\CountSort.dll
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\refint\CountSort.dll
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\CountSort.pdb
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\CountSort.genruntimeconfig.cache
+C:\Users\YuzhakovMikhail\Desktop\GeekBrains\Буткемп\CountSort\obj\Debug\net6.0\ref\CountSort.dll
